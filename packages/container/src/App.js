@@ -3,7 +3,7 @@ import MarketingApp from './components/MarketingApp';
 
 export default () => {
 
-    console.log('testing comment one :>> ');
+    console.log('testing comment two :>> ');
     return (<div>
                 <h1>Hi There !</h1>
                 <hr />
