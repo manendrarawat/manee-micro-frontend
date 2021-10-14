@@ -4,6 +4,8 @@ import React, {useRef, useEffect} from 'react';
 export default () => {
     const ref = useRef(null);
 
+    console.log('testing :>> ');
+
     useEffect(() => {
         mount(ref.current);
     })
